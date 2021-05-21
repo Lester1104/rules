@@ -1,5 +1,5 @@
 # Whatsapp
-DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,whatsapp
 IP-CIDR,18.194.0.0/15,no-resolve
 IP-CIDR,34.224.0.0/12,no-resolve
 IP-CIDR,50.22.198.204/30,no-resolve
